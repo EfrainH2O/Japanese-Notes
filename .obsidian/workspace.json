@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "4d9d832e57313dc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fff77ab68e7b9a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec68eee6daca1a37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Particulas/も.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "も"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd04c6d3fd1872cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "828ba8765e3b122a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe7ee5e6c1d32e52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e5d3aa657d2749d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6971fd997bca46f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f0f68adc4a0dfc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "179c4c3dae694009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edcdce953b2a6045",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Adjetivos/Expecion de adjetivo (いい).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Expecion de adjetivo (いい)"
+            }
+          },
+          {
+            "id": "073e6da69b2d1361",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Adjetivos/Expecion de adjetivo (いい).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Expecion de adjetivo (いい)"
+            }
+          },
+          {
+            "id": "0c1b6aecff5290fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1e2c3f2780a922d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c416f29d785ce71a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Adjetivos/Expecion de adjetivo (いい).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Expecion de adjetivo (いい)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ec68eee6daca1a37",
+  "lastOpenFiles": [
+    "Particulas/だ.md",
+    "Particulas/は.md",
+    "Particulas/が.md",
+    "Adjetivos/な-Adjetivos.md",
+    "Adjetivos/い-Adjetivos.md",
+    "Adjetivos/Expecion de adjetivo (いい).md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Particulas/も.md",
+    "Adjetivos.md",
+    "Sustantivos.md",
+    "Preguntas para la clase.md",
+    "Particulas.md",
+    "Adjetivos",
+    "Particulas",
+    "Untitled 1.base",
+    "Untitled 3.base",
+    "Untitled 2.base"
+  ]
+}
