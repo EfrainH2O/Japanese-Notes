@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Particulas/も.md",
+                "file": "Verbos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "も"
+              "title": "Verbos"
+            }
+          },
+          {
+            "id": "994361812cee916f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verbos.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verbos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,22 +198,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "ec68eee6daca1a37",
+  "active": "994361812cee916f",
   "lastOpenFiles": [
+    "Verbos Pasado.md",
+    "Verbos.md",
+    "Sustantivos.md",
+    "Adjetivos.md",
+    "Particulas.md",
+    "Particulas/で.md",
+    "Particulas/から.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled.md",
+    "る-Verbs.md",
+    "う-Verbs.md",
+    "Adjetivos/い-Adjetivos.md",
+    "Adjetivos/な-Adjetivos.md",
+    "Particulas/も.md",
     "Particulas/だ.md",
     "Particulas/は.md",
     "Particulas/が.md",
-    "Adjetivos/な-Adjetivos.md",
-    "Adjetivos/い-Adjetivos.md",
     "Adjetivos/Expecion de adjetivo (いい).md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Particulas/も.md",
-    "Adjetivos.md",
-    "Sustantivos.md",
     "Preguntas para la clase.md",
-    "Particulas.md",
     "Adjetivos",
     "Particulas",
     "Untitled 1.base",
