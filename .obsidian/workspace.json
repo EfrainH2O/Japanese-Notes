@@ -8,35 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec68eee6daca1a37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Verbos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Verbos"
-            }
-          },
-          {
             "id": "994361812cee916f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verbos.md",
-                "mode": "preview",
+                "file": "Particulas/は.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verbos"
+              "title": "は"
+            }
+          },
+          {
+            "id": "39893718006f0283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fun Facts/Expecion de adjetivo (いい).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expecion de adjetivo (いい)"
+            }
+          },
+          {
+            "id": "b06bbd36c4275f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verbos/Conjugaciones/Verbos Negativo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verbos Negativo"
+            }
+          },
+          {
+            "id": "618dbdb7709737d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -68,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "enfasis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,33 +222,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "994361812cee916f",
+  "active": "618dbdb7709737d8",
   "lastOpenFiles": [
-    "Verbos Pasado.md",
-    "Verbos.md",
-    "Sustantivos.md",
+    "Verbos/Conjugaciones/Verbos Pasado.md",
+    "2026-03-26.md",
     "Adjetivos.md",
+    "Adjetivos/な-Adjetivos.md",
+    "Adjetivos/い-Adjetivos.md",
+    "Sustantivos.md",
+    "Fun Facts/Verbos de Sustantivos.md",
+    "Verbos/Transitivos y Intransitivo.md",
+    "Verbos/Conjugaciones/Verbos Negativo.md",
+    "Verbos.md",
+    "Fun Facts/Verbos para describir existencia.md",
+    "Verbos/Conjugaciones/Verbos en Pasado y Negativo.md",
+    "Untitled",
+    "Fun Facts/Expecion de adjetivo (いい).md",
+    "Verbos/Transitivo e Intransitivo",
+    "Verbos/Conjugaciones",
+    "Particulas/Doble partícula.md",
+    "Verbos",
+    "Particulas/は.md",
+    "Particulas/に.md",
     "Particulas.md",
     "Particulas/で.md",
+    "Fun Facts/何で　と　なんで.md",
+    "Fun Facts",
+    "Particulas/へ.md",
+    "Particulas/が.md",
+    "Particulas/も.md",
+    "Particulas/だ.md",
     "Particulas/から.md",
+    "Particulas/を.md",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Untitled.md",
     "る-Verbs.md",
-    "う-Verbs.md",
-    "Adjetivos/い-Adjetivos.md",
-    "Adjetivos/な-Adjetivos.md",
-    "Particulas/も.md",
-    "Particulas/だ.md",
-    "Particulas/は.md",
-    "Particulas/が.md",
-    "Adjetivos/Expecion de adjetivo (いい).md",
-    "Preguntas para la clase.md",
     "Adjetivos",
     "Particulas",
     "Untitled 1.base",
-    "Untitled 3.base",
-    "Untitled 2.base"
+    "Untitled 3.base"
   ]
 }
