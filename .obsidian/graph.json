@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Particulas  ",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "file:Verbos",
+      "query": "path:Verbos",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -40,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.6666666666666666,
-  "close": false
+  "close": true
 }

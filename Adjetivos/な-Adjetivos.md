@@ -1,7 +1,7 @@
 *Adjetivos que no terminen en い*
 
 *Pura verga* ->[Video que explica porque loss な-adjetivos no son una buena asimilación y que realmente todo puede ser un adjetivo](https://youtu.be/iyVZlaEqU24?si=QBiXkLpfsvcXd4Tw) 
-*agh, bueno minino esto sirve para explicar conjugación* 
+*agh, bueno minino esto sirve para explicar conjugación*  ^0d0274
 
 The na-adjective is very simple to learn because it acts essentially like a noun. All the conjugation rules for both nouns and na-adjectives are the same. One main difference is that a na-adjective can directly modify a noun following it by sticking 「な」 between the adjective and noun. (Hence the name, adjective.)
 
