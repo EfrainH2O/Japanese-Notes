@@ -1,7 +1,6 @@
 Las particulas son componentes que determinan cual es la relacion de lo que estaba anterior con lo que sigue, por asi decirlo son los nexos. Pero estos solamente se aplican a la union de palabras en vez de la union de oraciones e ideas. 
 - Interacción con oración en general
 	- [[だ]]
-	- [[です]]
 	- [[は]]
 	- [[も]]
 	* [[が]]
@@ -10,7 +9,12 @@ Las particulas son componentes que determinan cual es la relacion de lo que esta
 	* [[から]]
 	* [[に]]
 	* [[を]]
-
+- Partículas para sujetos
+	- [[と]]
+	- [[や - とか]]
+	- [[の]]
+- Partículas Interesantes (complejas)
+	- [[の-なの（ん-なの）]]
 [[Doble partícula|Regla Interesante]]
 
 ##### Según *"Gemini"* se pueden definir de la siguiente manera:

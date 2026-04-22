@@ -41,3 +41,21 @@ un par de excepciones cuando se conjuga son las siguientes:
 ``来る - する``
 
 
+# Stems
+>Dentro del japones se tiene el concepto de "*stems*". Los stem o raíces son la raíz que compone el verbo, de ahí es de donde se agregar las diferentes terminación para cambiar su significado, ya sea cambiarle el tiempo, el estado de negación, etc.
+
+>[!Extraer su raíz]
+>**Para る verbs:** Remueve 「る」 
+>食べ~~る~~ -> 食べ
+>**Para う verbs:** Cambia la ultima vocal por su consonante con sonido -i
+>泳~~ぐ~~ -> 泳ぎ
+>**Exepciones:**
+>「する」 -> 「し」
+>「くる」->　「き」
+
+
+※ En la forma raíz, el verbo se puede tratar como sustantivo o objeto, tal y como pasa con los verbos  する. O sea que se pueden usar para complementar oraciones.
+明日、映画を見に行く. 
+
+
+
